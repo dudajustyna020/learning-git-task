@@ -1,4 +1,5 @@
 shopping_list = {
+    "kolega_zakupy":["woda","pomidory","mydło"],
     "piekarnia":["chelb","pączek","bułki"],
     "warzywniak":["marchew","seler","rukola"]
 }
