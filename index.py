@@ -1,4 +1,5 @@
 shopping_list = {
+    "apteka":["apap","syrop","witaminaD"],
     "piekarnia":["chelb","pączek","bułki"],
     "warzywniak":["marchew","seler","rukola"]
 }
